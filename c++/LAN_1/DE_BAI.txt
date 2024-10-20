@@ -1,0 +1,11 @@
+1. Viết chương trình C++ để in các dòng text đã cho trước.
+
+2. Viết chương trình C++ để in các dấu sao theo yêu cầu đã cho.
+
+3. Viết chương trình C++ để khai báo hai biến nguyên và một biến thực, sau đó in kết quả trên màn hình.
+
+4. Viết chương trình C++ để nhắc người dùng nhập tên của họ, sau đó in kết quả trên màn hình.
+
+5. Viết chương trình C++ để nhập ba số nguyên đã biết, sau đó in ra màn hình theo thứ tự tăng dần và giảm dần.
+
+6. Viết chương trình C++ để in một số nguyên, một số thực, một ký tự đã được định nghĩa trước.
