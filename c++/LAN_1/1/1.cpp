@@ -2,10 +2,12 @@
 using namespace std;
 
 int main() {
-// In các dòng text
+// In cï¿½c dï¿½ng text
     cout << "day l dong text thu nht." << endl;
     cout << "day l dong text thu hai." <<endl;
     cout << "day l dong text thu ba." << endl;
+    cout << "day l dong text thu tÆ°." << endl;
+
 
 return 0;
 }
