@@ -6,7 +6,7 @@ int main(){
 
  // Nhap tuoi
     cout << "Nhap tuoi cua hoc sinh: ";
-    cin >> tuoi;
+    cin >> tuoi;// = 16
     
 // dieu kien de vao lop 10//
     if (tuoi < 16) {

@@ -5,7 +5,7 @@ int main(){
 	 int a, b, c;
     cout << "Nhap ba so nguyen: ";
     cin >> a >> b >> c;
-
+    // a=5, b=7,c=6
     int max = a;
 
     if (b > max) {

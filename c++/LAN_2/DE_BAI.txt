@@ -1,14 +1,4 @@
-1. Viết chương trình C++ để in các dòng text đã cho trước.
 
-2. Viết chương trình C++ để in các dấu sao theo yêu cầu đã cho.
-
-3. Viết chương trình C++ để khai báo hai biến nguyên và một biến thực, sau đó in kết quả trên màn hình.
-
-4. Viết chương trình C++ để nhắc người dùng nhập tên của họ, sau đó in kết quả trên màn hình.
-
-5. Viết chương trình C++ để nhập ba số nguyên đã biết, sau đó in ra màn hình theo thứ tự tăng dần và giảm dần.
-
-6. Viết chương trình C++ để in một số nguyên, một số thực, một ký tự đã được định nghĩa trước.
 1. Viết chương trình C++ để tìm tổng, hiệu, tích và thương của hai số nguyên và in kết quả ra màn hình.
 
 2. Viết chương trình C++ để nhập hai số nguyên từ bàn phím và sau đó in ra màn hình tổng và trung bình của hai số bạn vừa nhập.
@@ -20,6 +10,7 @@
 6. Viết chương trình C++ để nhập một số nguyên bất kỳ từ bàn phím và in kết quả ra màn hình để nói cho người dùng biết số đó là lớn hay nhỏ hơn 100.
 
 7. Viết một chương trình C++ để nhắc người dùng nhập 3 số nguyên và tìm giá trị lớn nhất.
+
 8: Cửa hàng của bạn nhận gửi bán sản phẩm cho một công ty khác và sau mỗi tháng bạn cần tính toán số tiền hoa hồng bạn nhận được. Với mức hoa hồng theo doanh số bán hàng như sau:
 
 5% nếu tổng doanh số nhỏ hơn hoặc bằng 100 triệu.
