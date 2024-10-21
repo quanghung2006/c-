@@ -22,3 +22,4 @@
 + 20 % nếu tổng doanh số là lớn hơn 300 triệu.
 
 Dựa vào dữ liệu trên, bạn viết chương trình C++ để tính hoa hồng đại lý bạn sẽ nhận được.
+
