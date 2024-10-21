@@ -13,10 +13,12 @@
 
 8: Cửa hàng của bạn nhận gửi bán sản phẩm cho một công ty khác và sau mỗi tháng bạn cần tính toán số tiền hoa hồng bạn nhận được. Với mức hoa hồng theo doanh số bán hàng như sau:
 
-5% nếu tổng doanh số nhỏ hơn hoặc bằng 100 triệu.
+*** nhập doanh thu từ bàn phím => sau đó so sánh và tính toán hoa hồng nhận đc => in ra màn hình
 
-10% nếu tổng doanh số nhỏ hơn hoặc bằng 300 triệu.
++ 5% nếu tổng doanh số nhỏ hơn hoặc bằng 100 triệu.
 
-20 % nếu tổng doanh số là lớn hơn 300 triệu.
++ 10% nếu tổng doanh số nhỏ hơn hoặc bằng 300 triệu.
+
++ 20 % nếu tổng doanh số là lớn hơn 300 triệu.
 
 Dựa vào dữ liệu trên, bạn viết chương trình C++ để tính hoa hồng đại lý bạn sẽ nhận được.
