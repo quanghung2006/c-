@@ -17,7 +17,7 @@
 
 + 5% nếu tổng doanh số nhỏ hơn hoặc bằng 100 triệu.
 
-+ 10% nếu tổng doanh số nhỏ hơn hoặc bằng 300 triệu.
++ 10% nếu tổng doanh số nhỏ hơn hoặc bằng 300 triệu và lớn hơn 100tr.
 
 + 20 % nếu tổng doanh số là lớn hơn 300 triệu.
 
