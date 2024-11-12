@@ -1,16 +1,11 @@
-#include<iostream>
-using namespace std; 
-
-
-void myFunction(string fname)
-{
-	cout << fname <<" Refsnes\n";
+#include <iostream>
+using namespace std;
+ 
+ void xeoto(){
+ 	cout<<"xe bon banh"; 
+ }
+ int main(){
+  xeoto();
+ 
+ return 0;
 }
-int main() {
-string fname;
-	myFunction("bo");
-	myFunction("me");
-    myFunction("ba");
-	
-    return 0;	
-} 
